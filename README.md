@@ -1,2 +1,2 @@
 # Game of Life
-Game of life made in Javascript.
+Game of life made in p5.js
